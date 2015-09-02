@@ -1,0 +1,49 @@
+﻿div.container1 {
+    background: url(img/3col.jpg) left repeat-y;
+    border-bottom: 10px #182944 solid;
+}
+div.bannercontainer {
+    border-bottom: 5px solid #fcca43;
+}
+a, div.paginator a, div.datapager a, div#column1 ul.storylist li a, div#column1 ul.searchresults li a, li.last a:visited, li.last a:hover, .searchbutton, legend.scfSectionLegend
+{
+    color: #0f2b5b;
+}
+a.unitlink
+{
+    width: 125px;
+    height: 115px;
+    top: 0px;
+    left: 825px;
+}
+div.navigationmenu ul li {
+	border-bottom: 1px #d8e3ec solid;
+}	
+div.navigationmenu ul li ul {
+    background: url(img/bg_menu.jpg);
+}
+h1, h2, h3, h4, h5, h6
+{
+    color: #0f2b5b;
+}
+div.quicknavigationcontainer div.quicknavigation ul li a {
+	color: #122744;
+}
+div.column1, div.column2, div.column3 {
+	border: none;	
+}
+div.footercolumn ul, div.footercolumnfirst ul  {
+	padding-bottom: 1em;
+}
+div#phfooter_0_pnlFooterLinksColumn2 {
+	width: auto;
+}
+div#phfooter_0_pnlFooterLinksColumn2 ul {
+	margin-right: 30px;
+}
+div.footercolumnfirst ul {	
+    width: 100px;
+}
+div.footercolumn ul {
+	width: 200px;
+}

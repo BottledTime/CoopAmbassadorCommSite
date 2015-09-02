@@ -1,0 +1,14 @@
+﻿div.container1 {
+    background-image: url(img/2col.jpg);
+}
+div.column1, div.column2 {
+	margin-bottom: 2em;
+}
+div.column1 {
+	width: 455px;
+	font-size: 1.2em;
+}
+div.column2 {
+	font-size: 1.1em;
+	border-right: none;
+}
